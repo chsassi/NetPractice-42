@@ -1,4 +1,4 @@
-NetPractice (42 School)
+# NetPractice (42 School)
 
 🇬🇧🇺🇸
 NetPractice is a project within the 42 School curriculum aimed at understanding and practicing network configuration and troubleshooting. 
